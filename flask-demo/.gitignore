@@ -5,3 +5,4 @@ logs
 temp
 test.py
 .env
+flaskenv
